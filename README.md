@@ -1,28 +1,28 @@
 <p align="center">
-<img src="https://a.uguu.se/JdgoBrk.jpg" alt="Hinata-Md" width="100"/>
+<img src="https://a.uguu.se/JdgoBrk.jpg" alt="alhakim-Md" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/M.Alhakim-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riychdwayne/Hinata-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychdwayne/Hinata-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychdwayne/Hinata-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/riychdwayne/Hinata-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/riychdwayne/Hinata-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/riychdwayne/Hinata-Md?style=flat-square&color=green"></a>
+<a href="https://github.com/Reinkarna/followers"><img title="Followers" src="https://img.shields.io/github/followers/Reinkarna?color=red&style=flat-square"></a>
+<a href="https://github.com/Reinkarna/alhakim-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riychdwayne/Hinata-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/Reinkarna/alhakim-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychdwayne/Hinata-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/Reinkarna/alhakim-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychdwayne/Hinata-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Reinkarna/alhakim-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/Reinkarna/alhakim-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/riychdwayne/Hinata-Md?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friychdwayne%2FHinata-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/riychdwayne/Hinata-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Reinkarna/alhakim-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/riychdwayne/Hinata-Md#requirements">Requirements</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#instalasi">Installation</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#donate">Donate</a>
+  <a href="https://github.com/Reinkarna/alhakim-Md#requirements">Requirements</a> •
+  <a href="https://github.com/Reinkarna/alhakim-Md#instalasi">Installation</a> •
+  <a href="https://github.com/Reinkarna/alhakim-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/Reinkarna/alhakim-Md#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/Reinkarna/alhakim-Md#donate">Donate</a>
 </p>
 </div>
 
@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-alhakim](https://wa.me/6285692198423)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,8 +68,8 @@ npm start
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6285692198423?text=Bang+mau+donasi)
+- [OVO](https://wa.me/6285692198423?text=Bang+mau+donasi)
 
 # Thanks to
 - Irfan
